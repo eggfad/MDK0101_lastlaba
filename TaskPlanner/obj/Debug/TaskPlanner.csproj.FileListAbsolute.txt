@@ -1,0 +1,5 @@
+C:\Users\Захар\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.csproj.AssemblyReference.cache
+C:\Users\Захар\source\repos\TaskPlanner\TaskPlanner\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Захар\source\repos\TaskPlanner\TaskPlanner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Захар\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner_MarkupCompile.cache
+C:\Users\Захар\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner_MarkupCompile.lref
